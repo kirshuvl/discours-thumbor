@@ -1,0 +1,16 @@
+envtpl==0.7.2
+remotecv==3.1.0
+boto==2.49.0
+tornado-botocore==1.5.0
+python-dateutil
+dateutils==0.6.12
+shortuuid==1.0.8
+redis==3.5.3
+opencv-python-headless==4.8.1.78
+raven==6.10.0
+cairosvg==2.5.2
+pycurl==7.45.2
+tc-aws==7.0.2
+tc-core==0.5
+thumbor==7.7.1
+thumbor-wand-engine==0.1.1
